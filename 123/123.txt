@@ -1,4 +1,8 @@
 right here add comments by IE
 right here add comments locally
+<<<<<<< HEAD
 how about add conflicts locally2
+=======
+how about add conflicts locally1
+>>>>>>> origin/master
 how about add some conflicts
